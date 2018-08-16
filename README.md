@@ -58,7 +58,7 @@ P2P port: 19997, RPC port: 19998
 ### Reward Distribution
 <table>
 <tr><td><b>◆BLOCK HEIGHT</b></td><td><b>◆POW(%)</b></td><td><b>◆MN(%)</b></td><td><b>◆BLOCK REWARD</b></td><td><b>◆POW REWARD</b></td><td><b>◆MN REWARD</b></td></tr>
-<tr><td>◆1</td><td>100</td><td>100</td><td>0</td><td>165.301</td><td>0</td></tr>
+<tr><td>◆1</td><td>100</td><td>0</td><td>165.301</td><td>165.301</td><td>0</td></tr>
 <tr><td>◆2-200</td><td>10</td><td>90</td><td>1</td><td>0.1</td><td>0.9</td></tr>
 </table>
 
