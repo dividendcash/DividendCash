@@ -1,0 +1,26 @@
+[Unit]
+Description=Dividendcash's distributed currency daemon
+After=network.target
+
+[Service]
+User=dividendcash
+Group=dividendcash
+
+Type=forking
+PIDFile=/var/lib/dividendcashd/dividendcashd.pid
+
+ExecStart=/usr/bin/dividendcashd -daemon -pid=/var/lib/dividendcashd/dividendcashd.pid \
+          -conf=/etc/dividendcash/dividendcash.conf -datadir=/var/lib/dividendcashd
+
+ExecStop=-/usr/bin/dividendcash-cli -conf=/etc/dividendcash/dividendcash.conf \
+         -datadir=/var/lib/dividendcashd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

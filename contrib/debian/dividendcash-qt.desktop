@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dividendcash
+Comment=Dividendcash P2P Cryptocurrency
+Comment[fr]=Dividendcash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dividendcash, eşten eşe kriptografik sanal para birimi
+Exec=dividendcash-qt %u
+Terminal=false
+Type=Application
+Icon=dividendcash128
+MimeType=x-scheme-handler/dividendcash;
+Categories=Office;Finance;
