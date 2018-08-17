@@ -6,24 +6,22 @@ Quick installation of the Dividendcash daemon under linux. See detailed instruct
 
 Installation of libraries (using root user):
 
-    add-apt-repository ppa:bitcoin/bitcoin -y
-    apt-get update
-    apt-get install -y build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
-    apt-get install -y libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev
-    apt-get install -y libdb4.8-dev libdb4.8++-dev
+    sudo add-apt-repository ppa:bitcoin/bitcoin -y
+    sudo apt-get update
+    export LC_ALL=C
+    sudo apt-get install -y zip unzip build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libdb4.8-dev libdb4.8++-dev
+
 
 Cloning the repository and compiling (use any user with the sudo group):
 
-    cd
+    cd /home/
     git clone https://github.com/dividendcash/dividendcash.git
-    cd Dividendcash
+    cd dividendcash
     ./autogen.sh
     ./configure
     sudo make install
-    cd src
-    sudo strip dividendcashd
-    sudo strip dividendcash-cli
-    sudo strip dividendcash-tx
+    cd /usr/local/bin/
+    sudo strip dividendcash*
     cd ..
 
 Running the daemon:
