@@ -62,12 +62,12 @@
         <translation>Получаващ адрес</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Това са вашите Dividendcash адреси за изпращане на плащания. Винаги проверявайте количеството и адреса на получателя, преди да изпратите монети.</translation>
+        <source>These are your DividendCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Това са вашите DividendCash адреси за изпращане на плащания. Винаги проверявайте количеството и адреса на получателя, преди да изпратите монети.</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са вашите Dividendcash адреси за получаване на плащания. Препоръчително е да използвате нови адреси за получаване за всяка транзакция.</translation>
+        <source>These are your DividendCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са вашите DividendCash адреси за получаване на плащания. Препоръчително е да използвате нови адреси за получаване за всяка транзакция.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,8 +168,8 @@
         <translation>Потвърдете криптирането на портфейла</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash сега ще се затвори, за да довърши процеса на криптиране. Запомнете, че криптирането на вашия портфейл не може напълно да защити вашия Dividendcash от това, да бъде откраднат от злонамерен софутуер, инфектирал вашия компютър.</translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash сега ще се затвори, за да довърши процеса на криптиране. Запомнете, че криптирането на вашия портфейл не може напълно да защити вашия DividendCash от това, да бъде откраднат от злонамерен софутуер, инфектирал вашия компютър.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -239,8 +239,8 @@
         <translation>Адрес:</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>Dividendcash адреса, с който да подпишете съобщението</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>DividendCash адреса, с който да подпишете съобщението</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -271,8 +271,8 @@
         <translation>Копирай сегашния подпис в системния буфер</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Подпишете съобщението, за да докажете, че притежавате този Dividendcash адрес</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Подпишете съобщението, за да докажете, че притежавате този DividendCash адрес</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -413,8 +413,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>Dividendcash адреса, с който да подпишете съобщението</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>DividendCash адреса, с който да подпишете съобщението</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -437,8 +437,8 @@
         <translation>Копирай сегашния подпис в системния буфер</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Подпишете съобщението, за да докажете, че притежавате този Dividendcash адрес</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Подпишете съобщението, за да докажете, че притежавате този DividendCash адрес</translation>
     </message>
     </context>
 <context>

@@ -95,7 +95,7 @@ public:
 };
 
 /**
- * Dividendcash RPC command dispatcher.
+ * DividendCash RPC command dispatcher.
  */
 class CRPCTable
 {

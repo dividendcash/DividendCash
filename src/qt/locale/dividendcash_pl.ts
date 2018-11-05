@@ -227,8 +227,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Dividendcash jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres DividendCash jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -518,12 +518,12 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
+        <source>DividendCash Core</source>
         <translation>&amp;Rdzeń bitcoin</translation>
     </message>
     <message>
-        <source>Send coins to a Dividendcash address</source>
-        <translation>Wyślij monety do adresu Dividendcash</translation>
+        <source>Send coins to a DividendCash address</source>
+        <translation>Wyślij monety do adresu DividendCash</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and dividendcash: URIs)</source>
@@ -538,24 +538,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Dividendcash Core</source>
+        <source>&amp;About DividendCash Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about Dividendcash Core</source>
+        <source>Show information about DividendCash Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dividendcash</source>
-        <translation>Modyfikuj opcje konfiguracji Dividendcash</translation>
+        <source>Modify configuration options for DividendCash</source>
+        <translation>Modyfikuj opcje konfiguracji DividendCash</translation>
     </message>
     <message>
-        <source>Sign messages with your Dividendcash addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami Dividendcash, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your DividendCash addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami DividendCash, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dividendcash addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Dividendcash</translation>
+        <source>Verify messages to ensure they were signed with specified DividendCash addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu DividendCash</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -582,8 +582,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a Dividendcash: URI or payment request</source>
-        <translation>Otwórz Dividendcash: URI i żądanie zapłaty</translation>
+        <source>Open a DividendCash: URI or payment request</source>
+        <translation>Otwórz DividendCash: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -594,12 +594,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Dividendcash Core help message to get a list with possible Dividendcash command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Dividendcash, aby dostać listę możliwych opcji Dividendcash command-line</translation>
+        <source>Show the DividendCash Core help message to get a list with possible DividendCash command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia DividendCash, aby dostać listę możliwych opcji DividendCash command-line</translation>
     </message>
     <message>
-        <source>Dividendcash Core client</source>
-        <translation>Rdzeń Dividendcash klient</translation>
+        <source>DividendCash Core client</source>
+        <translation>Rdzeń DividendCash klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -916,7 +916,7 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dividendcash Core</source>
+        <source>DividendCash Core</source>
         <translation>&amp;Rdzeń bitcoin</translation>
     </message>
     </context>
@@ -931,7 +931,7 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
+        <source>DividendCash Core</source>
         <translation>&amp;Rdzeń bitcoin</translation>
     </message>
     <message>
@@ -1192,16 +1192,16 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start Dividendcash after logging in to the system.</source>
-        <translation>Automatycznie uruchom Dividendcash po zalogowaniu do systemu</translation>
+        <source>Automatically start DividendCash after logging in to the system.</source>
+        <translation>Automatycznie uruchom DividendCash po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start Dividendcash on system login</source>
-        <translation>&amp;Uruchom Dividendcash podczas logowania do systemu</translation>
+        <source>&amp;Start DividendCash on system login</source>
+        <translation>&amp;Uruchom DividendCash podczas logowania do systemu</translation>
     </message>
     <message>
-        <source>Amount of Dividendcash to keep anonymized</source>
-        <translation>Liczba Dividendcash do anonimizacji</translation>
+        <source>Amount of DividendCash to keep anonymized</source>
+        <translation>Liczba DividendCash do anonimizacji</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1220,8 +1220,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dividendcash.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Dividendcash</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DividendCash.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie DividendCash</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1230,8 +1230,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 https://www.transifex.com/dividendcash-project/dividendcash-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the Dividendcash network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Dividendcash poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the DividendCash network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią DividendCash poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1458,8 +1458,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a Dividendcash address (e.g. %1)</source>
-        <translation>Wprowadź adres Dividendcash (np. %1)</translation>
+        <source>Enter a DividendCash address (e.g. %1)</source>
+        <translation>Wprowadź adres DividendCash (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1897,8 +1897,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Dividendcash jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres DividendCash jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1932,7 +1932,7 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dividendcash Core</source>
+        <source>DividendCash Core</source>
         <translation>&amp;Rdzeń bitcoin</translation>
     </message>
     </context>

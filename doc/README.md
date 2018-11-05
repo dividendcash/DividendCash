@@ -1,13 +1,13 @@
-Dividendcash Core
+DividendCash Core
 =====================
 
 Setup
 ---------------------
-[Dividendcash Core](http://dividendcash.org/wallet) is the original Dividendcash client and it builds the backbone of the network. However, it downloads and stores the entire history of Dividendcash transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[DividendCash Core](http://dividendcash.org/wallet) is the original DividendCash client and it builds the backbone of the network. However, it downloads and stores the entire history of DividendCash transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Dividendcash on your native platform.
+The following are some helpful notes on how to run DividendCash on your native platform.
 
 ### Unix
 
@@ -22,18 +22,18 @@ Unpack the files into a directory, and then run dividendcash-qt.exe.
 
 ### OSX
 
-Drag Dividendcash-Qt to your applications folder, and then run Dividendcash-Qt.
+Drag DividendCash-Qt to your applications folder, and then run DividendCash-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Dividendcash Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
+* See the documentation at the [DividendCash Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [Dividendcash Forum](http://forum.dividendcash.org/).
-* Join one of our Slack groups [Dividendcash Slack Groups](https://dividendcash.org/slack-logins/).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [DividendCash Forum](http://forum.dividendcash.org/).
+* Join one of our Slack groups [DividendCash Slack Groups](https://dividendcash.org/slack-logins/).
 
 Building
 ---------------------
-The following are developer notes on how to build Dividendcash on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build DividendCash on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -41,7 +41,7 @@ The following are developer notes on how to build Dividendcash on your native pl
 
 Development
 ---------------------
-The Dividendcash repo's [root README](https://github.com/Dividendcash-Project/Dividendcash/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Dividendcash repo's [root README](https://github.com/DividendCash-Project/DividendCash/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -55,8 +55,8 @@ The Dividendcash repo's [root README](https://github.com/Dividendcash-Project/Di
 
 ### Resources
 
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [Dividendcash](http://forum.dividendcash.org/) forum.
-* Join the [Dividendcash-Dev](https://dividendcash-dev.slack.com/) Slack group ([Sign-Up](https://dividendcash-dev.herokuapp.com/)).
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [DividendCash](http://forum.dividendcash.org/) forum.
+* Join the [DividendCash-Dev](https://dividendcash-dev.slack.com/) Slack group ([Sign-Up](https://dividendcash-dev.herokuapp.com/)).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

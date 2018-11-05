@@ -62,12 +62,12 @@
         <translation>받는 주소</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>이 주소들은 전송할 Dividendcash 주소입니다. 송금하기 전 항상 금액과 전송할 주소를 확인해주세요.</translation>
+        <source>These are your DividendCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>이 주소들은 전송할 DividendCash 주소입니다. 송금하기 전 항상 금액과 전송할 주소를 확인해주세요.</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>이 주소들은 전송 받을 Dividendcash 주소입니다. 각 트랜잭션별로 새로운 입금 주소를 사용하는 것이 좋습니다.</translation>
+        <source>These are your DividendCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>이 주소들은 전송 받을 DividendCash 주소입니다. 각 트랜잭션별로 새로운 입금 주소를 사용하는 것이 좋습니다.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>지갑 암호화 확인</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash는 이제 암호화 프로세스를 마치기 위해 닫힐것입니다. 지갑을 암호화하더라도 맬웨어로 인한 DVDs 의 도난당하는 것을 완벽하게 보호 할 수는 없습니다.</translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash는 이제 암호화 프로세스를 마치기 위해 닫힐것입니다. 지갑을 암호화하더라도 맬웨어로 인한 DVDs 의 도난당하는 것을 완벽하게 보호 할 수는 없습니다.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -247,8 +247,8 @@
         <translation>주소:</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>메세지를 서명하기 위한 Dividendcash 주소</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>메세지를 서명하기 위한 DividendCash 주소</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>현재 서명을 시스템 클립 보드에 복사</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>이 Dividendcash 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>이 DividendCash 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>BIP 38 암호화 된 개인 키를 입력하십시오. 중간 입력창에 암호를 입력하십시오. 키를 암호해제 후 '주소 가져오기'를 클릭하면 개인 키가 지갑에 추가됩니다.</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>메세지에 서명된 Dividendcash 주소</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>메세지에 서명된 DividendCash 주소</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>메세지가 지정된 Dividendcash 주소로 서명되었는지 확인해주세요</translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>메세지가 지정된 DividendCash 주소로 서명되었는지 확인해주세요</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,12 +602,12 @@
         <translation>탭 도구 모음</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>Send coins to a Dividendcash address</source>
-        <translation>Dividendcash 주소로 전송하기</translation>
+        <source>Send coins to a DividendCash address</source>
+        <translation>DividendCash 주소로 전송하기</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and dividendcash: URIs)</source>
@@ -622,24 +622,24 @@
         <translation>마스터노드 검색</translation>
     </message>
     <message>
-        <source>&amp;About Dividendcash Core</source>
-        <translation>Dividendcash Core &amp;정보</translation>
+        <source>&amp;About DividendCash Core</source>
+        <translation>DividendCash Core &amp;정보</translation>
     </message>
     <message>
-        <source>Show information about Dividendcash Core</source>
-        <translation>Dividendcash Core에 대한 정보 표시</translation>
+        <source>Show information about DividendCash Core</source>
+        <translation>DividendCash Core에 대한 정보 표시</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dividendcash</source>
-        <translation>Dividendcash에 대한 구성 옵션 수정</translation>
+        <source>Modify configuration options for DividendCash</source>
+        <translation>DividendCash에 대한 구성 옵션 수정</translation>
     </message>
     <message>
-        <source>Sign messages with your Dividendcash addresses to prove you own them</source>
-        <translation>Dividendcash 주소로 메시지에 서명하여 소유하고 있음을 증명하십시오.</translation>
+        <source>Sign messages with your DividendCash addresses to prove you own them</source>
+        <translation>DividendCash 주소로 메시지에 서명하여 소유하고 있음을 증명하십시오.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dividendcash addresses</source>
-        <translation>메시지가 지정된 Dividendcash 주소로 서명되었는지 확인합니다.</translation>
+        <source>Verify messages to ensure they were signed with specified DividendCash addresses</source>
+        <translation>메시지가 지정된 DividendCash 주소로 서명되었는지 확인합니다.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -670,8 +670,8 @@
         <translation>마스터노드 구성 파일 열기</translation>
     </message>
     <message>
-        <source>Open a Dividendcash: URI or payment request</source>
-        <translation>Dividendcash: URI 또는 ​​결제 요청 열기</translation>
+        <source>Open a DividendCash: URI or payment request</source>
+        <translation>DividendCash: URI 또는 ​​결제 요청 열기</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -682,16 +682,16 @@
         <translation>블록 탐색 창</translation>
     </message>
     <message>
-        <source>Show the Dividendcash Core help message to get a list with possible Dividendcash command-line options</source>
-        <translation>Dividendcash Core 도움말 메세지를 표시하여 사용 가능한 Dividendcash 명령행 옵션 목록 표시</translation>
+        <source>Show the DividendCash Core help message to get a list with possible DividendCash command-line options</source>
+        <translation>DividendCash Core 도움말 메세지를 표시하여 사용 가능한 DividendCash 명령행 옵션 목록 표시</translation>
     </message>
     <message>
-        <source>Dividendcash Core client</source>
-        <translation>Dividendcash Core 클라이언트</translation>
+        <source>DividendCash Core client</source>
+        <translation>DividendCash Core 클라이언트</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dividendcash network</source>
-        <translation><numerusform>Dividendcash 네트워크에  %n 연결됨</numerusform></translation>
+        <source>%n active connection(s) to DividendCash network</source>
+        <translation><numerusform>DividendCash 네트워크에  %n 연결됨</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1138,8 +1138,8 @@ Address: %4
         <translation>보내는 주소 수정</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dividendcash address.</source>
-        <translation>입력된 주소 "%1"는 올바른 Dividendcash 주소가 아닙니다.</translation>
+        <source>The entered address "%1" is not a valid DividendCash address.</source>
+        <translation>입력된 주소 "%1"는 올바른 DividendCash 주소가 아닙니다.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1184,16 +1184,16 @@ Address: %4
         <translation>버전</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Dividendcash Core</source>
-        <translation>Dividendcash Core 정보</translation>
+        <source>About DividendCash Core</source>
+        <translation>DividendCash Core 정보</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1239,16 +1239,16 @@ Address: %4
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to Dividendcash Core.</source>
-        <translation>Dividendcash Core 환영합니다.</translation>
+        <source>Welcome to DividendCash Core.</source>
+        <translation>DividendCash Core 환영합니다.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dividendcash Core will store its data.</source>
-        <translation>이 프로그램이 처음 실행되었으므로 Dividendcash Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
+        <source>As this is the first time the program is launched, you can choose where DividendCash Core will store its data.</source>
+        <translation>이 프로그램이 처음 실행되었으므로 DividendCash Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Dividendcash Core will download and store a copy of the Dividendcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dividendcash Core는 Dividendcash 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
+        <source>DividendCash Core will download and store a copy of the DividendCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>DividendCash Core는 DividendCash 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1259,8 +1259,8 @@ Address: %4
         <translation>사용자 지정 데이터 디렉토리 사용:</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1401,12 +1401,12 @@ Address: %4
         <translation>보낼 주소 입력</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Dividendcash addresses after it matures.
-To Add: enter percentage to give and Dividendcash address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other DividendCash addresses after it matures.
+To Add: enter percentage to give and DividendCash address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>다중전송을 사용하면 성취 한 뒤 다른 Dividendcash 주소 목록에 최대 100% 스테이크 또는 마스터노드 보상을 자동으로 보낼 수 있습니다.
-추가하려면 : 부여 할 백분율과 다중전송 벡터에 추가 할 Dividendcash 주소를 입력하십시오.
+        <translation>다중전송을 사용하면 성취 한 뒤 다른 DividendCash 주소 목록에 최대 100% 스테이크 또는 마스터노드 보상을 자동으로 보낼 수 있습니다.
+추가하려면 : 부여 할 백분율과 다중전송 벡터에 추가 할 DividendCash 주소를 입력하십시오.
 삭제하려면 삭제할 주소를 입력하고 삭제를 누릅니다.
 활성화를 클릭하지 않으면 다중전송이 활성화되지 않습니다.</translation>
     </message>
@@ -1576,16 +1576,16 @@ Please check the address and try again.</source>
         <translation>난독화 구성</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Dividendcash's configuration screen.</source>
-        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 2 rounds) Dividendcash의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening DividendCash's configuration screen.</source>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 2 rounds) DividendCash의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Dividendcash's configuration screen.</source>
-        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 8 rounds) Dividendcash의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening DividendCash's configuration screen.</source>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 8 rounds) DividendCash의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Dividendcash's configuration screen.</source>
-        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 16 rounds) Dividendcash의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening DividendCash's configuration screen.</source>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 16 rounds) DividendCash의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -1646,8 +1646,8 @@ Please check the address and try again.</source>
         <translation>확인되지 않은 변경사항을 사용하지 않도록 설정하면 해당 트랜잭션에 하나 이상의 컨펌이 진행되야&lt;br/&gt;트랜잭션에 변경사항을 적용할 수 있습니다.&lt;br/&gt;또한 이것은 잔액 계산 방식에도 영향을 줍니다.</translation>
     </message>
     <message>
-        <source>Automatically open the Dividendcash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>라우터에서 Dividendcash 클라이언트 포트를 자동으로 엽니다. 이 기능은 라우터가 UPnP를 지원하고 활성화 된 경우에만 사용할 수 있습니다.</translation>
+        <source>Automatically open the DividendCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>라우터에서 DividendCash 클라이언트 포트를 자동으로 엽니다. 이 기능은 라우터가 UPnP를 지원하고 활성화 된 경우에만 사용할 수 있습니다.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1666,12 +1666,12 @@ Please check the address and try again.</source>
         <translation>전문적</translation>
     </message>
     <message>
-        <source>Automatically start Dividendcash after logging in to the system.</source>
-        <translation>시스템 로그인 후 Dividendcash을 자동으로 시작합니다.</translation>
+        <source>Automatically start DividendCash after logging in to the system.</source>
+        <translation>시스템 로그인 후 DividendCash을 자동으로 시작합니다.</translation>
     </message>
     <message>
-        <source>&amp;Start Dividendcash on system login</source>
-        <translation>&amp;시스템 로그인시 Dividendcash 시작</translation>
+        <source>&amp;Start DividendCash on system login</source>
+        <translation>&amp;시스템 로그인시 DividendCash 시작</translation>
     </message>
     <message>
         <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
@@ -1686,8 +1686,8 @@ Please check the address and try again.</source>
         <translation>이 금액에 도달하면 난독화를 끌 수 있는 임계 값 역할을 합니다.</translation>
     </message>
     <message>
-        <source>Amount of Dividendcash to keep anonymized</source>
-        <translation>익명화할 Dividendcash 수량</translation>
+        <source>Amount of DividendCash to keep anonymized</source>
+        <translation>익명화할 DividendCash 수량</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1714,8 +1714,8 @@ Please check the address and try again.</source>
         <translation>&amp;네트워크</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dividendcash.</source>
-        <translation>사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 Dividendcash을 다시 시작한 후에 적용됩니다.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DividendCash.</source>
+        <translation>사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 DividendCash을 다시 시작한 후에 적용됩니다.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1728,8 +1728,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>&amp;UPnp를 사용하여 포트 매핑</translation>
     </message>
     <message>
-        <source>Connect to the Dividendcash network through a SOCKS5 proxy.</source>
-        <translation>SOCKS5 프록시를 통해 Dividendcash 네트워크에 연결해주세요.</translation>
+        <source>Connect to the DividendCash network through a SOCKS5 proxy.</source>
+        <translation>SOCKS5 프록시를 통해 DividendCash 네트워크에 연결해주세요.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1883,8 +1883,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>잔액</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dividendcash network after a connection is established, but this process has not completed yet.</source>
-        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 Dividendcash 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DividendCash network after a connection is established, but this process has not completed yet.</source>
+        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 DividendCash 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -2093,11 +2093,11 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
     </message>
     <message>
         <source>Cannot start dividendcash: click-to-pay handler</source>
-        <translation>Dividendcash을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
+        <translation>DividendCash을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dividendcash address or malformed URI parameters.</source>
-        <translation>URI를 분석할 수 없습니다! 이는 잘못된 Dividendcash 주소 또는 URI 매개변수 손상으로 인해 발생할 수 있습니다.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid DividendCash address or malformed URI parameters.</source>
+        <translation>URI를 분석할 수 없습니다! 이는 잘못된 DividendCash 주소 또는 URI 매개변수 손상으로 인해 발생할 수 있습니다.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2182,8 +2182,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>금액</translation>
     </message>
     <message>
-        <source>Enter a Dividendcash address (e.g. %1)</source>
-        <translation>Dividendcash 주소를 입력하세요 (예 %1)</translation>
+        <source>Enter a DividendCash address (e.g. %1)</source>
+        <translation>DividendCash 주소를 입력하세요 (예 %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2320,8 +2320,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>블록체인</translation>
     </message>
     <message>
-        <source>Open the Dividendcash debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>현재 데이터 디렉토리에서 Dividendcash 디버그 로그 파일을 엽니다. 로그 파일이 클 경우, 약간의 시간이 걸릴 수 있습니다.</translation>
+        <source>Open the DividendCash debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>현재 데이터 디렉토리에서 DividendCash 디버그 로그 파일을 엽니다. 로그 파일이 클 경우, 약간의 시간이 걸릴 수 있습니다.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2489,8 +2489,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>출력:</translation>
     </message>
     <message>
-        <source>Welcome to the Dividendcash RPC console.</source>
-        <translation>Dividendcash RPC 콘솔에 오신 것을 환영합니다.</translation>
+        <source>Welcome to the DividendCash RPC console.</source>
+        <translation>DividendCash RPC 콘솔에 오신 것을 환영합니다.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2560,12 +2560,12 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>새로운 수신 주소와 연결할 선택적 라벨.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dividendcash network.</source>
-        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다. 참고: Dividendcash 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the DividendCash network.</source>
+        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다. 참고: DividendCash 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dividendcash network.</source>
-        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다.&lt;br&gt;참고: Dividendcash 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the DividendCash network.</source>
+        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다.&lt;br&gt;참고: DividendCash 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2853,8 +2853,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uDVDs로 설정되고,&lt;br /&gt;1000 uDVDs 안에는 전체에서 최소 "킬로바이트당" 250 uDVDs 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Dividendcash transactions than the network can process.</source>
-        <translation>블록의 공간보다 트랜잭션량이 적으면 최소 수수료만 지불하면 됩니다.&lt;br /&gt;하지만 Dividendcash 트랜잭션 수가 많으면 미확인된 트랜잭션로 네트워크가 처리할 수도 있습니다.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for DividendCash transactions than the network can process.</source>
+        <translation>블록의 공간보다 트랜잭션량이 적으면 최소 수수료만 지불하면 됩니다.&lt;br /&gt;하지만 DividendCash 트랜잭션 수가 많으면 미확인된 트랜잭션로 네트워크가 처리할 수도 있습니다.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2957,8 +2957,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>익명 자금</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dividendcash address</source>
-        <translation>경고: 잘못된 Dividendcash 주소</translation>
+        <source>Warning: Invalid DividendCash address</source>
+        <translation>경고: 잘못된 DividendCash 주소</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3068,8 +3068,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>지불 &amp;대상:</translation>
     </message>
     <message>
-        <source>The Dividendcash address to send the payment to</source>
-        <translation>전송할 Dividendcash 주소</translation>
+        <source>The DividendCash address to send the payment to</source>
+        <translation>전송할 DividendCash 주소</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3108,8 +3108,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>메세지:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Dividendcash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dividendcash network.</source>
-        <translation>참조용으로 트랜잭션과 함께 기록되는 Dividendcash : URI에 첨부된 메세지입니다. 참고: 이 메세지는 Dividendcash 네트워크를 통해 전송되지 않습니다.</translation>
+        <source>A message that was attached to the DividendCash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the DividendCash network.</source>
+        <translation>참조용으로 트랜잭션과 함께 기록되는 DividendCash : URI에 첨부된 메세지입니다. 참고: 이 메세지는 DividendCash 네트워크를 통해 전송되지 않습니다.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3135,8 +3135,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dividendcash Core is shutting down...</source>
-        <translation>Dividendcash Core가 종료됩니다...</translation>
+        <source>DividendCash Core is shutting down...</source>
+        <translation>DividendCash Core가 종료됩니다...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3158,8 +3158,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>자신의 주소로 메세지에 서명할 수 있습니다. 피싱 공격으로 사용자를 속일 수 있으므로 서명에 주의해주세요. 동의하는 바에 한하여 서명하십시오.</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>메세지를 서명하기 위한 Dividendcash 주소</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>메세지를 서명하기 위한 DividendCash 주소</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3190,16 +3190,16 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>현재 서명을 시스템 클립 보드에 복사</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>이 Dividendcash 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>이 DividendCash 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>메세지에 서명된 Dividendcash 주소</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>메세지에 서명된 DividendCash 주소</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>메세지가 지정된 Dividendcash 주소로 서명되었는지 확인해주세요</translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>메세지가 지정된 DividendCash 주소로 서명되었는지 확인해주세요</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3285,8 +3285,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3301,8 +3301,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Dash Core 개발자</translation>
     </message>
     <message>
-        <source>The Dividendcash Core developers</source>
-        <translation>Dividendcash Core 개발자</translation>
+        <source>The DividendCash Core developers</source>
+        <translation>DividendCash Core 개발자</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3920,8 +3920,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>JSON-RPC연결 수신을 위해 주어진 주소를 지정합니다. [host]: IPv6 포트 표기법 사용. 이 옵션은 여러번 지정할 수 있습니다. (기본값 : 모든 인터페이스에 지정)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dividendcash Core is probably already running.</source>
-        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. Dividendcash Core는 이미 실행 중입니다.</translation>
+        <source>Cannot obtain a lock on data directory %s. DividendCash Core is probably already running.</source>
+        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. DividendCash Core는 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3940,8 +3940,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>지갑의 모든 트랜잭션들을 삭제하고 오직 블록체인을 통한 트랜잭션 부분들만 복구합니다 -시작 시 다시 스캔</translation>
     </message>
     <message>
-        <source>Disable all Dividendcash specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Dividendcash의 모든 특정 기능들을 비활성화합니다(마스터노드, 난독화, SwiftTX, Budgeting) (0-1, 기본값: %u)</translation>
+        <source>Disable all DividendCash specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>DividendCash의 모든 특정 기능들을 비활성화합니다(마스터노드, 난독화, SwiftTX, Budgeting) (0-1, 기본값: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -4101,23 +4101,23 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Dividendcash Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "DividendCash Alert" admin@foo.com
 </source>
-        <translation>Dividendcashd 또는 Dividendcash-qt에 대한 -server 옵션 파일을 사용하려면 configuration 파일에서 rpcpassword를 설정해야 합니다:
+        <translation>DividendCashd 또는 DividendCash-qt에 대한 -server 옵션 파일을 사용하려면 configuration 파일에서 rpcpassword를 설정해야 합니다:
 %s
 다음 무작위 암호를 사용하는 것을 추천합니다:
-rpcuser=Dividendcashpc
+rpcuser=DividendCashpc
 rpcpassword=%s
 (이 비밀번호는 기억할 필요가 없습니다)
 유저 이름과 비밀번호는 반드시 달라야 합니다.
 파일이 존재하지 않는다면 작성자만 읽기 가능한 권한으로 파일을 생성하십시오.
 또한 문제 발생 알림을 받을려면 alertnotify를 설정하는 것을 추천합니다.
-예시: alertnotify=echo %%s | mail -s "Dividendcash Alert" admin@foo.com
+예시: alertnotify=echo %%s | mail -s "DividendCash Alert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dividendcash Core is probably already running.</source>
-        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. Dividendcash Core는 이미 실행 중입니다.</translation>
+        <source>Unable to bind to %s on this computer. DividendCash Core is probably already running.</source>
+        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. DividendCash Core는 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4144,8 +4144,8 @@ rpcpassword=%s
         <translation>경고 : -paytxfee가 매우 높게 설정되었습니다! 이것은 전송할 경우 지불 할 트랜잭션 수수료입니다.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Dividendcash Core will not work properly.</source>
-        <translation>경고: 컴퓨터의 날짜와 시간이 올바르게 설정되어 있는지 확인해 주세요! 만일 시계가 잘못되어 있다면 Dividendcash 코어는 정상적으로 작동하지 않을 수 있습니다.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong DividendCash Core will not work properly.</source>
+        <translation>경고: 컴퓨터의 날짜와 시간이 올바르게 설정되어 있는지 확인해 주세요! 만일 시계가 잘못되어 있다면 DividendCash 코어는 정상적으로 작동하지 않을 수 있습니다.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4292,8 +4292,8 @@ rpcpassword=%s
         <translation>Copyright (C) 2014-%i The Dash Core 개발자들</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Dividendcash Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Dividendcash Core 개발자</translation>
+        <source>Copyright (C) 2015-%i The DividendCash Core Developers</source>
+        <translation>Copyright (C) 2015-%i The DividendCash Core 개발자</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4364,8 +4364,8 @@ rpcpassword=%s
         <translation>wallet.dat을 불러오는 중 오류가 발생했습니다: 지갑 손상됨</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dividendcash Core</source>
-        <translation>wallet.dat를 로드하는 중 오류가 발생했습니다. 지갑에 최신 버전의 Dividendcash 코어가 필요합니다.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DividendCash Core</source>
+        <translation>wallet.dat를 로드하는 중 오류가 발생했습니다. 지갑에 최신 버전의 DividendCash 코어가 필요합니다.</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4476,8 +4476,8 @@ rpcpassword=%s
         <translation>정보</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Dividendcash Core is shutting down.</source>
-        <translation>초기화 정확성 검사에 실패 했습니다. Dividendcash Core가 종료됩니다.</translation>
+        <source>Initialization sanity check failed. DividendCash Core is shutting down.</source>
+        <translation>초기화 정확성 검사에 실패 했습니다. DividendCash Core가 종료됩니다.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5096,8 +5096,8 @@ rpcpassword=%s
         <translation>지갑이 잠겼습니다.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dividendcash Core to complete</source>
-        <translation>지갑을 다시 작성해야 합니다: 완료하려면 Dividendcash 코어를 재시작해야 합니다</translation>
+        <source>Wallet needed to be rewritten: restart DividendCash Core to complete</source>
+        <translation>지갑을 다시 작성해야 합니다: 완료하려면 DividendCash 코어를 재시작해야 합니다</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -23,7 +23,7 @@ packages:
 - "python"
 remotes:
 - "url": "https://github.com/dividendcash-project/dividendcash.git"
-  "dir": "dividendcash"
+  "dir": "DividendCash"
 files: []
 script: |
   WRAP_DIR=$HOME/wrapped

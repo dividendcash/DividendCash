@@ -89,7 +89,7 @@ use old versions of Upstart and do not supply the start-stop-daemon uitility.
 Copy dividendcashd.init to /etc/init.d/dividendcashd. Test by running "service dividendcashd start".
 
 Using this script, you can adjust the path and flags to the dividendcashd program by
-setting the DividendcashD and FLAGS environment variables in the file
+setting the DividendCashD and FLAGS environment variables in the file
 /etc/sysconfig/dividendcashd. You can also use the DAEMONOPTS environment variable here.
 
 5. Auto-respawn

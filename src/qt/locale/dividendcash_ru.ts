@@ -62,12 +62,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши Dividendcash-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
+        <source>These are your DividendCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши DividendCash-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши Dividendcash-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
+        <source>These are your DividendCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши DividendCash-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Подтверждение шифрования кошелька</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши Dividendcash от кражи с использованием вредоносного ПО.</translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши DividendCash от кражи с использованием вредоносного ПО.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -236,15 +236,15 @@
     </message>
     <message>
         <source>Enter a Dividendcash Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Введите Dividendcash адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
+        <translation>Введите DividendCash адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Адрес:</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>Адрес Dividendcash для подписи сообщения с помощью</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>Адрес DividendCash для подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -275,8 +275,8 @@
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Подпишите сообщение, чтобы подтвердить свой адрес Dividendcash</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Подпишите сообщение, чтобы подтвердить свой адрес DividendCash</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -299,12 +299,12 @@
         <translation>Введите зашифрованный с помощью BIP 38 секретный ключ. Введите секретную фразу в среднем окне. Нажмите Дешифровать Ключ чтобы создать секретный ключ. Нажав на Импортировать Адрес после дешифровки, вы добавите секретный ключ к кошельку.</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>Адрес Dividendcash, которым подписано сообщение</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>Адрес DividendCash, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным Dividendcash адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным DividendCash адресом </translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -594,16 +594,16 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>Send coins to a Dividendcash address</source>
-        <translation>Отправить монеты на Dividendcash адрес</translation>
+        <source>Send coins to a DividendCash address</source>
+        <translation>Отправить монеты на DividendCash адрес</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and dividendcash: URIs)</source>
-        <translation>Запросить платежи (генерирует QR-код и Dividendcash: URI)</translation>
+        <translation>Запросить платежи (генерирует QR-код и DividendCash: URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -614,24 +614,24 @@
         <translation>Обзор мастернод</translation>
     </message>
     <message>
-        <source>&amp;About Dividendcash Core</source>
-        <translation>&amp;О Dividendcash Core</translation>
+        <source>&amp;About DividendCash Core</source>
+        <translation>&amp;О DividendCash Core</translation>
     </message>
     <message>
-        <source>Show information about Dividendcash Core</source>
-        <translation>Показать информацию о Dividendcash Core</translation>
+        <source>Show information about DividendCash Core</source>
+        <translation>Показать информацию о DividendCash Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dividendcash</source>
-        <translation>Изменение параметров конфигурации Dividendcash</translation>
+        <source>Modify configuration options for DividendCash</source>
+        <translation>Изменение параметров конфигурации DividendCash</translation>
     </message>
     <message>
-        <source>Sign messages with your Dividendcash addresses to prove you own them</source>
-        <translation>Подписывайте сообщения вашими Dividendcash адресами, чтобы доказать, что вы их владелец</translation>
+        <source>Sign messages with your DividendCash addresses to prove you own them</source>
+        <translation>Подписывайте сообщения вашими DividendCash адресами, чтобы доказать, что вы их владелец</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dividendcash addresses</source>
-        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным Dividendcash адресом </translation>
+        <source>Verify messages to ensure they were signed with specified DividendCash addresses</source>
+        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным DividendCash адресом </translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -662,8 +662,8 @@
         <translation>Открыть файл настроек мастернод</translation>
     </message>
     <message>
-        <source>Open a Dividendcash: URI or payment request</source>
-        <translation>Открыть Dividendcash: URI или запрос платежа</translation>
+        <source>Open a DividendCash: URI or payment request</source>
+        <translation>Открыть DividendCash: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -674,16 +674,16 @@
         <translation>Окно обзора блока</translation>
     </message>
     <message>
-        <source>Show the Dividendcash Core help message to get a list with possible Dividendcash command-line options</source>
-        <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды Dividendcash</translation>
+        <source>Show the DividendCash Core help message to get a list with possible DividendCash command-line options</source>
+        <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды DividendCash</translation>
     </message>
     <message>
-        <source>Dividendcash Core client</source>
-        <translation>Клиент Dividendcash Core</translation>
+        <source>DividendCash Core client</source>
+        <translation>Клиент DividendCash Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dividendcash network</source>
-        <translation><numerusform>%n активное подключение к сети Dividendcash</numerusform><numerusform>%n активных подключений к сети Dividendcash</numerusform><numerusform>%n активных подключений к сети Dividendcash</numerusform><numerusform>%n активных подключений к сети Dividendcash</numerusform></translation>
+        <source>%n active connection(s) to DividendCash network</source>
+        <translation><numerusform>%n активное подключение к сети DividendCash</numerusform><numerusform>%n активных подключений к сети DividendCash</numerusform><numerusform>%n активных подключений к сети DividendCash</numerusform><numerusform>%n активных подключений к сети DividendCash</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1138,8 +1138,8 @@ MultiSend: %1</translation>
         <translation>Изменить адрес отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dividendcash address.</source>
-        <translation>Введенный адрес "%1" не является Dividendcash адресом.</translation>
+        <source>The entered address "%1" is not a valid DividendCash address.</source>
+        <translation>Введенный адрес "%1" не является DividendCash адресом.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1184,16 +1184,16 @@ MultiSend: %1</translation>
         <translation>версия</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About Dividendcash Core</source>
-        <translation>О Dividendcash Core</translation>
+        <source>About DividendCash Core</source>
+        <translation>О DividendCash Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1239,16 +1239,16 @@ MultiSend: %1</translation>
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to Dividendcash Core.</source>
-        <translation>Добро пожаловать в Dividendcash Core.</translation>
+        <source>Welcome to DividendCash Core.</source>
+        <translation>Добро пожаловать в DividendCash Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dividendcash Core will store its data.</source>
-        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные Dividendcash Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where DividendCash Core will store its data.</source>
+        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные DividendCash Core.</translation>
     </message>
     <message>
-        <source>Dividendcash Core will download and store a copy of the Dividendcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dividendcash Core загрузит и сохранит копию цепочки блоков Dividendcash. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
+        <source>DividendCash Core will download and store a copy of the DividendCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>DividendCash Core загрузит и сохранит копию цепочки блоков DividendCash. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1259,8 +1259,8 @@ MultiSend: %1</translation>
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1401,12 +1401,12 @@ MultiSend: %1</translation>
         <translation>Введите адрес для отправки</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Dividendcash addresses after it matures.
-To Add: enter percentage to give and Dividendcash address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other DividendCash addresses after it matures.
+To Add: enter percentage to give and DividendCash address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие Dividendcash адреса.
-Для добавления: введите передаваемый процент и Dividendcash адрес для добавления к вектору MultiSend.
+        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие DividendCash адреса.
+Для добавления: введите передаваемый процент и DividendCash адрес для добавления к вектору MultiSend.
 Для удаления: введите удаляемый адрес и нажмите удалить.
 MultiSend будет неактивен до тех пор, пока вы не нажмете Включить</translation>
     </message>
@@ -1576,16 +1576,16 @@ Please check the address and try again.</source>
         <translation>Настройка Перемешивания</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Dividendcash's configuration screen.</source>
-        <translation>Перемешивание было успешно выставлено на стандартные значения (%1 и 2 цикла). Вы в любой момент можете это изменить, открыв окно настройки Dividendcash.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening DividendCash's configuration screen.</source>
+        <translation>Перемешивание было успешно выставлено на стандартные значения (%1 и 2 цикла). Вы в любой момент можете это изменить, открыв окно настройки DividendCash.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Dividendcash's configuration screen.</source>
-        <translation>Перемешивание было успешно выбрано как высокое (%1 и 8 циклов). Вы в любой момент можете это изменить, открыв окно настройки Dividendcash.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening DividendCash's configuration screen.</source>
+        <translation>Перемешивание было успешно выбрано как высокое (%1 и 8 циклов). Вы в любой момент можете это изменить, открыв окно настройки DividendCash.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Dividendcash's configuration screen.</source>
-        <translation>Перемешивание было успешно выставлено на максимальное (%1 и 16 циклов). Вы в любой момент можете это изменить, открыв окно настройки Dividendcash.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening DividendCash's configuration screen.</source>
+        <translation>Перемешивание было успешно выставлено на максимальное (%1 и 16 циклов). Вы в любой момент можете это изменить, открыв окно настройки DividendCash.</translation>
     </message>
 </context>
 <context>
@@ -1646,8 +1646,8 @@ Please check the address and try again.</source>
         <translation>Отключив проведение неподтвержденных изменений все изменения о транзакции &lt;br/&gt;не будут использованы пока транзакция не получит хотя бы одно подтверждение.&lt;br/&gt;Также это влияет на расчет вашего баланса.</translation>
     </message>
     <message>
-        <source>Automatically open the Dividendcash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть клиентский порт Dividendcash через роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
+        <source>Automatically open the DividendCash client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть клиентский порт DividendCash через роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1666,12 +1666,12 @@ Please check the address and try again.</source>
         <translation>Эксперт</translation>
     </message>
     <message>
-        <source>Automatically start Dividendcash after logging in to the system.</source>
-        <translation>Автоматически запускать Dividendcash после входа в систему.</translation>
+        <source>Automatically start DividendCash after logging in to the system.</source>
+        <translation>Автоматически запускать DividendCash после входа в систему.</translation>
     </message>
     <message>
-        <source>&amp;Start Dividendcash on system login</source>
-        <translation>&amp;Запускать Dividendcash при входе в систему</translation>
+        <source>&amp;Start DividendCash on system login</source>
+        <translation>&amp;Запускать DividendCash при входе в систему</translation>
     </message>
     <message>
         <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
@@ -1686,8 +1686,8 @@ Please check the address and try again.</source>
         <translation>При достижении этого значения Перемешивание будет отключено.</translation>
     </message>
     <message>
-        <source>Amount of Dividendcash to keep anonymized</source>
-        <translation>Количество Dividendcash, держащихся анонимизированными</translation>
+        <source>Amount of DividendCash to keep anonymized</source>
+        <translation>Количество DividendCash, держащихся анонимизированными</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1714,8 +1714,8 @@ Please check the address and try again.</source>
         <translation>&amp;Сеть</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dividendcash.</source>
-        <translation>Здесь можно выставить язык интерфейса. Изменения вступят в силу после перезапуска Dividendcash.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DividendCash.</source>
+        <translation>Здесь можно выставить язык интерфейса. Изменения вступят в силу после перезапуска DividendCash.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1728,8 +1728,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Карта порта, использующего &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Dividendcash network through a SOCKS5 proxy.</source>
-        <translation>Подключиться к сети Dividendcash через SOCKS5 прокси.</translation>
+        <source>Connect to the DividendCash network through a SOCKS5 proxy.</source>
+        <translation>Подключиться к сети DividendCash через SOCKS5 прокси.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1883,8 +1883,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Балансы</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dividendcash network after a connection is established, but this process has not completed yet.</source>
-        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью Dividendcash после установки соединения, но этот процесс еще не завершен. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DividendCash network after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью DividendCash после установки соединения, но этот процесс еще не завершен. </translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -2084,8 +2084,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Не удалось запустить dividendcash: обработчик click-to-pay </translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dividendcash address or malformed URI parameters.</source>
-        <translation>URI не интерпретируется! Причиной этому может быть неверный Dividendcash адрес или неверные параметеры URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid DividendCash address or malformed URI parameters.</source>
+        <translation>URI не интерпретируется! Причиной этому может быть неверный DividendCash адрес или неверные параметеры URI.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2170,8 +2170,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a Dividendcash address (e.g. %1)</source>
-        <translation>Введите адрес Dividendcash (например %1)</translation>
+        <source>Enter a DividendCash address (e.g. %1)</source>
+        <translation>Введите адрес DividendCash (например %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2304,8 +2304,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Блокчейн</translation>
     </message>
     <message>
-        <source>Open the Dividendcash debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть протокол отладки Dividendcash. Это может занять некоторе время, если файл протокола очень большой.</translation>
+        <source>Open the DividendCash debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть протокол отладки DividendCash. Это может занять некоторе время, если файл протокола очень большой.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2465,8 +2465,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Вывод:</translation>
     </message>
     <message>
-        <source>Welcome to the Dividendcash RPC console.</source>
-        <translation>Добро пожаловать в окружение Dividendcash RPC.</translation>
+        <source>Welcome to the DividendCash RPC console.</source>
+        <translation>Добро пожаловать в окружение DividendCash RPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2769,8 +2769,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Копировать изменение</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dividendcash address</source>
-        <translation>Предупреждение: неправильный Dividendcash адрес</translation>
+        <source>Warning: Invalid DividendCash address</source>
+        <translation>Предупреждение: неправильный DividendCash адрес</translation>
     </message>
     <message>
         <source>and SwiftTX</source>
@@ -2823,8 +2823,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dividendcash Core is shutting down...</source>
-        <translation>Dividendcash Core выключается...</translation>
+        <source>DividendCash Core is shutting down...</source>
+        <translation>DividendCash Core выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2834,8 +2834,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>Адрес Dividendcash для подписи сообщения с помощью</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>Адрес DividendCash для подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2858,16 +2858,16 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Подпишите сообщение, чтобы подтвердить свой адрес Dividendcash</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Подпишите сообщение, чтобы подтвердить свой адрес DividendCash</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>Адрес Dividendcash, которым подписано сообщение</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>Адрес DividendCash, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным Dividendcash адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным DividendCash адресом </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2913,8 +2913,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2929,8 +2929,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>The Dividendcash Core developers</source>
-        <translation>Разработчики Dividendcash Core</translation>
+        <source>The DividendCash Core developers</source>
+        <translation>Разработчики DividendCash Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3215,8 +3215,8 @@ https://www.transifex.com/dividendcash-project/dividendcash-project-translations
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Dividendcash Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики Dividendcash Core</translation>
+        <source>Copyright (C) 2015-%i The DividendCash Core Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики DividendCash Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

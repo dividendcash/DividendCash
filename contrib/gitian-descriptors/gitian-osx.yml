@@ -29,7 +29,7 @@ packages:
 - "fonts-tuffy"
 remotes:
 - "url": "https://github.com/dividendcash-project/dividendcash.git"
-  "dir": "dividendcash"
+  "dir": "DividendCash"
 files:
 - "MacOSX10.11.sdk.tar.gz"
 script: |

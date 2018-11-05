@@ -62,12 +62,12 @@
         <translation>Адреса отримання</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваша Dividendcash-адреса для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
+        <source>These are your DividendCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Це ваша DividendCash-адреса для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваші Dividendcash адреси для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
+        <source>These are your DividendCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваші DividendCash адреси для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Підтвердження шифрування гаманця</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші DVD'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші DVD'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>

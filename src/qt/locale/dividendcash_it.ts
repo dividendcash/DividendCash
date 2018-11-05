@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi Dividendcash per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your DividendCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi DividendCash per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi Dividendcash per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your DividendCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi DividendCash per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi DVD dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi DVD dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -247,8 +247,8 @@
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>L'indirizzo Dividendcash per firmare il messaggio con</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>L'indirizzo DividendCash per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Dividendcash</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo DividendCash</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Immettere la chiave privata codificata BIP 38. Inserire la passphrase nella casella centrale. Fare clic su Decripta Chiave per calcolare la chiave privata. Dopo che la chiave viene decrittata, cliccando su "Importa indirizzo" verrà aggiunta questa chiave privata al portafoglio.</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>L'indirizzo Dividendcash con cui è stato firmato il messaggio</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>L'indirizzo DividendCash con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Dividendcash specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo DividendCash specificato </translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -590,12 +590,12 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>Send coins to a Dividendcash address</source>
-        <translation>Invia monete all' indirizzo Dividendcash</translation>
+        <source>Send coins to a DividendCash address</source>
+        <translation>Invia monete all' indirizzo DividendCash</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and dividendcash: URIs)</source>
@@ -610,24 +610,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Dividendcash Core</source>
-        <translation>&amp;Informazioni Dividendcash Core</translation>
+        <source>&amp;About DividendCash Core</source>
+        <translation>&amp;Informazioni DividendCash Core</translation>
     </message>
     <message>
-        <source>Show information about Dividendcash Core</source>
-        <translation>Visualizza informazioni su Dividendcash Core</translation>
+        <source>Show information about DividendCash Core</source>
+        <translation>Visualizza informazioni su DividendCash Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dividendcash</source>
-        <translation>Modifica le opzioni di configurazione per Dividendcash</translation>
+        <source>Modify configuration options for DividendCash</source>
+        <translation>Modifica le opzioni di configurazione per DividendCash</translation>
     </message>
     <message>
-        <source>Sign messages with your Dividendcash addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi Dividendcash per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your DividendCash addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi DividendCash per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dividendcash addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi Dividendcash specifici</translation>
+        <source>Verify messages to ensure they were signed with specified DividendCash addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi DividendCash specifici</translation>
     </message>
     <message>
         <source>Encrypt and decrypt private keys using a passphrase</source>
@@ -638,16 +638,16 @@
         <translation>Impostazioni MultiSend</translation>
     </message>
     <message>
-        <source>Open a Dividendcash: URI or payment request</source>
-        <translation>Apri un Dividendcash: URI o richiesta di pagamento</translation>
+        <source>Open a DividendCash: URI or payment request</source>
+        <translation>Apri un DividendCash: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>Block explorer window</source>
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the Dividendcash Core help message to get a list with possible Dividendcash command-line options</source>
-        <translation>Mostra il messaggio di aiuto Dividendcash Core per ottenere un elenco con le possibili opzioni di riga di comando Dividendcash</translation>
+        <source>Show the DividendCash Core help message to get a list with possible DividendCash command-line options</source>
+        <translation>Mostra il messaggio di aiuto DividendCash Core per ottenere un elenco con le possibili opzioni di riga di comando DividendCash</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -893,8 +893,8 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -920,8 +920,8 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1106,8 +1106,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>L'indirizzo Dividendcash per firmare il messaggio con</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>L'indirizzo DividendCash per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1130,16 +1130,16 @@ MultiSend: %1</translation>
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Dividendcash</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo DividendCash</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>L'indirizzo Dividendcash con cui è stato firmato il messaggio</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>L'indirizzo DividendCash con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Dividendcash specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo DividendCash specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1177,8 +1177,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     </context>
 <context>

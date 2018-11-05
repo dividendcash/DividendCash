@@ -152,8 +152,8 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos DVDs d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos DVDs d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -219,8 +219,8 @@
         <translation>Adresse :</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>L'adresse Dividendcash avec laquelle signer le message</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>L'adresse DividendCash avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -251,8 +251,8 @@
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse Dividendcash</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse DividendCash</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -271,12 +271,12 @@
         <translation>BIP 38 Décrypter</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>L'adresse Dividendcash avec laquelle le message a été signé</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>L'adresse DividendCash avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Dividendcash renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse DividendCash renseignée</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -534,8 +534,8 @@
         <translation>&amp;Aide</translation>
     </message>
     <message>
-        <source>Send coins to a Dividendcash address</source>
-        <translation>Envoyer des pièces à une adresse Dividendcash</translation>
+        <source>Send coins to a DividendCash address</source>
+        <translation>Envoyer des pièces à une adresse DividendCash</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -546,16 +546,16 @@
         <translation>Afficher les masternodes</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dividendcash</source>
-        <translation>Modifier les options de configuration pour Dividendcash</translation>
+        <source>Modify configuration options for DividendCash</source>
+        <translation>Modifier les options de configuration pour DividendCash</translation>
     </message>
     <message>
-        <source>Sign messages with your Dividendcash addresses to prove you own them</source>
-        <translation>Signer les messages avec votre adresse Dividendcash pour prouver qu'elles sont bien à vous.</translation>
+        <source>Sign messages with your DividendCash addresses to prove you own them</source>
+        <translation>Signer les messages avec votre adresse DividendCash pour prouver qu'elles sont bien à vous.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dividendcash addresses</source>
-        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse Dividendcash spécifié</translation>
+        <source>Verify messages to ensure they were signed with specified DividendCash addresses</source>
+        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse DividendCash spécifié</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -854,8 +854,8 @@ Adresse : %4
         <translation>Modifier l'adresse d'envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dividendcash address.</source>
-        <translation>L'adresse entrée "%1" n'est pas une adresse Dividendcash valide</translation>
+        <source>The entered address "%1" is not a valid DividendCash address.</source>
+        <translation>L'adresse entrée "%1" n'est pas une adresse DividendCash valide</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1461,8 +1461,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Payer à :</translation>
     </message>
     <message>
-        <source>The Dividendcash address to send the payment to</source>
-        <translation>L'adresse Dividendcash à laquelle envoyer le paiement</translation>
+        <source>The DividendCash address to send the payment to</source>
+        <translation>L'adresse DividendCash à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1507,8 +1507,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Signer le message</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>L'adresse Dividendcash avec laquelle signer le message</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>L'adresse DividendCash avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1535,16 +1535,16 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse Dividendcash</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse DividendCash</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>L'adresse Dividendcash avec laquelle le message a été signé</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>L'adresse DividendCash avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Dividendcash renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse DividendCash renseignée</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>

@@ -62,12 +62,12 @@
         <translation>Adresy pro přijetí peněz</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto jsou Vaše Dividendcash adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
+        <source>These are your DividendCash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto jsou Vaše DividendCash adresy pro poslání platby. Vždy si překontrolujte množství peněz a cílovou adresu než platbu odešlete.</translation>
     </message>
     <message>
-        <source>These are your Dividendcash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto jsou Vaše Dividendcash adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
+        <source>These are your DividendCash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto jsou Vaše DividendCash adresy pro přijetí plateb. Je doporučeno použít novou adresu pro každou novou transakci.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Potvrdit zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Dividendcash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
-        <translation>Dividendcash se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše DVDy před krádží, pokud je Váš počítač infikován malwarem.</translation>
+        <source>DividendCash will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DVDs from being stolen by malware infecting your computer.</source>
+        <translation>DividendCash se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše DVDy před krádží, pokud je Váš počítač infikován malwarem.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -240,15 +240,15 @@
     </message>
     <message>
         <source>Enter a Dividendcash Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Zadejte Dividendcash adresu, kterou si přejete zašifrovat pomocí BIP38. Frázové heslo zadejte do prostředního boxu. Stiskněte šifrovat pro výpočet šifrovaného privátního klíče.</translation>
+        <translation>Zadejte DividendCash adresu, kterou si přejete zašifrovat pomocí BIP38. Frázové heslo zadejte do prostředního boxu. Stiskněte šifrovat pro výpočet šifrovaného privátního klíče.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>Dividendcash adresa pro podepsání zprávy</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>DividendCash adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto Dividendcash adresu</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto DividendCash adresu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Vložte BIP 38 šifrovaný privítní klíc. Frázové heslo vložte do prostředního boxu. Kliknětě na Dešifrovat Klíč pro výpočet privátního klíče. Poté co bude klíč dešifrován, kliknutím na 'Importovat Adresu' přidáte privátní klíč do Vaší peněženky.</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>Dividendcash adresa zprávy byla podpsána</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>DividendCash adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou Dividendcash adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou DividendCash adresou</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -598,12 +598,12 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>Send coins to a Dividendcash address</source>
-        <translation>Odeslat platbuna Dividendcash adresu</translation>
+        <source>Send coins to a DividendCash address</source>
+        <translation>Odeslat platbuna DividendCash adresu</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and dividendcash: URIs)</source>
@@ -618,24 +618,24 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About Dividendcash Core</source>
-        <translation>&amp;O Dividendcash Core</translation>
+        <source>&amp;About DividendCash Core</source>
+        <translation>&amp;O DividendCash Core</translation>
     </message>
     <message>
-        <source>Show information about Dividendcash Core</source>
-        <translation>Zobraz informace o Dividendcash Core</translation>
+        <source>Show information about DividendCash Core</source>
+        <translation>Zobraz informace o DividendCash Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dividendcash</source>
-        <translation>Upravit možnosti konfigurace pro Dividendcash</translation>
+        <source>Modify configuration options for DividendCash</source>
+        <translation>Upravit možnosti konfigurace pro DividendCash</translation>
     </message>
     <message>
-        <source>Sign messages with your Dividendcash addresses to prove you own them</source>
-        <translation>Podepsat zprávy Vaší Dividendcash adresou pro prokázaní, že jste jejich vlastníkem</translation>
+        <source>Sign messages with your DividendCash addresses to prove you own them</source>
+        <translation>Podepsat zprávy Vaší DividendCash adresou pro prokázaní, že jste jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dividendcash addresses</source>
-        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými Dividendcash adresami</translation>
+        <source>Verify messages to ensure they were signed with specified DividendCash addresses</source>
+        <translation>Ověřit zprávy k zajištění, že bylypodepsány vybranými DividendCash adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -666,8 +666,8 @@
         <translation>Otevřít Masternodový konfigurační soubor</translation>
     </message>
     <message>
-        <source>Open a Dividendcash: URI or payment request</source>
-        <translation>Otevřít Dividendcash: URI nebo platební žádost</translation>
+        <source>Open a DividendCash: URI or payment request</source>
+        <translation>Otevřít DividendCash: URI nebo platební žádost</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -678,12 +678,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the Dividendcash Core help message to get a list with possible Dividendcash command-line options</source>
-        <translation>Zobrazit Dividendcash Core pomocnou zpráv pro získání seznamu možných parametrů Dividendcash pro příkazy do příkazové řádky</translation>
+        <source>Show the DividendCash Core help message to get a list with possible DividendCash command-line options</source>
+        <translation>Zobrazit DividendCash Core pomocnou zpráv pro získání seznamu možných parametrů DividendCash pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>Dividendcash Core client</source>
-        <translation>Dividendcash Core klient</translation>
+        <source>DividendCash Core client</source>
+        <translation>DividendCash Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1070,8 +1070,8 @@ MultiSend: %1</translation>
         <translation>Upravit adresu k odeslání platby</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dividendcash address.</source>
-        <translation>Zadaná adresa "%1" není validní Dividendcash adresa.</translation>
+        <source>The entered address "%1" is not a valid DividendCash address.</source>
+        <translation>Zadaná adresa "%1" není validní DividendCash adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1116,12 +1116,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>About Dividendcash Core</source>
-        <translation>O Dividendcash Core</translation>
+        <source>About DividendCash Core</source>
+        <translation>O DividendCash Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1155,16 +1155,16 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to Dividendcash Core.</source>
-        <translation>Vítejte v Dividendcash Core.</translation>
+        <source>Welcome to DividendCash Core.</source>
+        <translation>Vítejte v DividendCash Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dividendcash Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude Dividendcash Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where DividendCash Core will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude DividendCash Core ukládat svá data.</translation>
     </message>
     <message>
-        <source>Dividendcash Core will download and store a copy of the Dividendcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dividendcash Core stáhne a uloží kopii Dividendcash blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>DividendCash Core will download and store a copy of the DividendCash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>DividendCash Core stáhne a uloží kopii DividendCash blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1175,8 +1175,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1524,16 +1524,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Dividendcash after logging in to the system.</source>
-        <translation>Automaticky spustit Dividendcash po přihlášení do systému</translation>
+        <source>Automatically start DividendCash after logging in to the system.</source>
+        <translation>Automaticky spustit DividendCash po přihlášení do systému</translation>
     </message>
     <message>
-        <source>&amp;Start Dividendcash on system login</source>
-        <translation>&amp;Spusti Dividendcash při přihlášení do systému</translation>
+        <source>&amp;Start DividendCash on system login</source>
+        <translation>&amp;Spusti DividendCash při přihlášení do systému</translation>
     </message>
     <message>
-        <source>Amount of Dividendcash to keep anonymized</source>
-        <translation>Počet Dividendcash pro anonymní držení</translation>
+        <source>Amount of DividendCash to keep anonymized</source>
+        <translation>Počet DividendCash pro anonymní držení</translation>
     </message>
     <message>
         <source>Show Masternodes Tab</source>
@@ -2199,8 +2199,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Dividendcash address to sign the message with</source>
-        <translation>Dividendcash adresa pro podepsání zprávy</translation>
+        <source>The DividendCash address to sign the message with</source>
+        <translation>DividendCash adresa pro podepsání zprávy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2227,16 +2227,16 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
         <translation>Kopírovat aktuální podpis do systémové mezipaměti</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dividendcash address</source>
-        <translation>Podepsat zprávu k prokázání, že vlastníte tuto Dividendcash adresu</translation>
+        <source>Sign the message to prove you own this DividendCash address</source>
+        <translation>Podepsat zprávu k prokázání, že vlastníte tuto DividendCash adresu</translation>
     </message>
     <message>
-        <source>The Dividendcash address the message was signed with</source>
-        <translation>Dividendcash adresa zprávy byla podpsána</translation>
+        <source>The DividendCash address the message was signed with</source>
+        <translation>DividendCash adresa zprávy byla podpsána</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dividendcash address</source>
-        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou Dividendcash adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified DividendCash address</source>
+        <translation>Verifikujte zprávu pro ujištění, že byla podepsána zmíněnou DividendCash adresou</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2278,8 +2278,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     </context>
 <context>

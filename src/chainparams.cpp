@@ -55,7 +55,12 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
     (0, uint256("000006eeaf84bb9cbab937799e64c47c160a11a0cb88249bfe268c18e690a12f"))
-    (50, uint256("000052afe9d8df114b4aa277daaebca8f49fa6a31c556cda61cfb71bf9db5b93"));
+    (50, uint256("000052afe9d8df114b4aa277daaebca8f49fa6a31c556cda61cfb71bf9db5b93"))
+    (500, uint256("40c0b39e766507c1de19260b2ac54ad143d76b77c2724b2ce8d514874f6583e1"))
+    (5000, uint256("483bc3771731346580f69cf8da7476b8b6c884ab14513bd66ef0ad1bd7bfd23e"))
+    (50000, uint256("803aab9e69e9bc0717a32f2477b17ecc6ac664cb9e6451a4f9c3f7f53194a9f2"))
+    (100000, uint256("95e145889cc54ef62958133b1e43fd24c3e6bbc3787f4e51141c81132e202bd8"))
+    (115460, uint256("687c475fa74de0e460430403825b54c9b0d8edfaa0f15fbb80819d9d834b397a"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
     1530489328, // * UNIX timestamp of last checkpoint block
@@ -110,7 +115,7 @@ public:
         nLastPOWBlock = 200;
         nMaturity = 50;
         nMasternodeCountDrift = 20;
-        nMasternodeCollateralLimit = 1000;
+        nMasternodeCollateralLimit = 10000;
         nModifierUpdateBlock = 615800;
         nMaxMoneyOut = 21210101 * COIN;
 
@@ -165,12 +170,12 @@ public:
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
         fRequireRPCPassword = true;
-        fMiningRequiresPeers = false;		// default true
+        fMiningRequiresPeers = true;		// default true
         fAllowMinDifficultyBlocks = false;
         fDefaultConsistencyChecks = false;
         fRequireStandard = true;
         fMineBlocksOnDemand = false;
-        fSkipProofOfWorkCheck = true;		// default false
+        fSkipProofOfWorkCheck = false;		// default false
         fTestnetToBeDeprecatedFieldRPC = false;
         fHeadersFirstSyncingActive = false;
 
@@ -213,7 +218,7 @@ public:
         nLastPOWBlock = 200;
         nMaturity = 15;
         nMasternodeCountDrift = 4;
-        nMasternodeCollateralLimit = 1000;
+        nMasternodeCollateralLimit = 10000;
         nModifierUpdateBlock = 51197; //approx Mon, 17 Apr 2017 04:00:00 GMT
         nMaxMoneyOut = 21210101 * COIN;
 
@@ -240,12 +245,12 @@ public:
         convertSeed6(vFixedSeeds, pnSeed6_test, ARRAYLEN(pnSeed6_test));
 
         fRequireRPCPassword = true;
-        fMiningRequiresPeers = false;
+        fMiningRequiresPeers = true;
         fAllowMinDifficultyBlocks = true;
         fDefaultConsistencyChecks = false;
         fRequireStandard = false;
         fMineBlocksOnDemand = false;
-        fSkipProofOfWorkCheck = true;
+        fSkipProofOfWorkCheck = false;
         fTestnetToBeDeprecatedFieldRPC = true;
 
         nPoolMaxTransactions = 2;
@@ -295,7 +300,7 @@ public:
         vSeeds.clear();      //! Testnet mode doesn't have any DNS seeds.
 
         fRequireRPCPassword = false;
-        fMiningRequiresPeers = false;
+        fMiningRequiresPeers = true;
         fAllowMinDifficultyBlocks = true;
         fDefaultConsistencyChecks = true;
         fRequireStandard = false;
@@ -324,7 +329,7 @@ public:
         vSeeds.clear();      //! Unit test mode doesn't have any DNS seeds.
 
         fRequireRPCPassword = false;
-        fMiningRequiresPeers = false;
+        fMiningRequiresPeers = true;
         fDefaultConsistencyChecks = true;
         fAllowMinDifficultyBlocks = false;
         fMineBlocksOnDemand = true;

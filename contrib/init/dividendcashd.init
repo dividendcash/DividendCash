@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#  dividendcashd The Dividendcash core server.
+#  dividendcashd The DividendCash core server.
 #
 #
 # chkconfig: 345 80 20

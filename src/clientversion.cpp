@@ -13,7 +13,7 @@
  * for both dividendcashd and dividendcash-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Dividendcash Core");
+const std::string CLIENT_NAME("DividendCash Core");
 
 /**
  * Client version number

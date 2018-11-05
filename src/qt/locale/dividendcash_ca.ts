@@ -354,12 +354,12 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>&amp;About Dividendcash Core</source>
-        <translation>&amp;Sobre Dividendcash Core</translation>
+        <source>&amp;About DividendCash Core</source>
+        <translation>&amp;Sobre DividendCash Core</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -552,12 +552,12 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
-        <source>About Dividendcash Core</source>
-        <translation>Sobre Dividendcash Core</translation>
+        <source>About DividendCash Core</source>
+        <translation>Sobre DividendCash Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -575,12 +575,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to Dividendcash Core.</source>
-        <translation>Benvingut a Dividendcash Core.</translation>
+        <source>Welcome to DividendCash Core.</source>
+        <translation>Benvingut a DividendCash Core.</translation>
     </message>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1132,8 +1132,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dividendcash Core</source>
-        <translation>Dividendcash Core</translation>
+        <source>DividendCash Core</source>
+        <translation>DividendCash Core</translation>
     </message>
     <message>
         <source>Version %1</source>

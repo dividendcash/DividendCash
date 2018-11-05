@@ -1,5 +1,5 @@
 [Unit]
-Description=Dividendcash's distributed currency daemon
+Description=DividendCash's distributed currency daemon
 After=network.target
 
 [Service]
