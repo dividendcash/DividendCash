@@ -247,7 +247,7 @@ then
 fi
 
 # Set up build
-pushd ./DividendCash
+pushd ./dividendcash
 git fetch
 git checkout ${COMMIT}
 popd
@@ -256,7 +256,7 @@ popd
 if [[ $build = true ]]
 then
 	# Make output folder
-	mkdir -p ./DividendCash-binaries/${VERSION}
+	mkdir -p ./dividendcash-binaries/${VERSION}
 
 	# Build Dependencies
 	echo ""
@@ -266,7 +266,7 @@ then
 	mkdir -p inputs
 	wget -N -P inputs $osslPatchUrl
 	wget -N -P inputs $osslTarUrl
-	make -C ../DividendCash/depends download SOURCES_PATH=`pwd`/cache/common
+	make -C ../dividendcash/depends download SOURCES_PATH=`pwd`/cache/common
 
 	# Linux
 	if [[ $linux = true ]]
@@ -274,9 +274,9 @@ then
             echo ""
 	    echo "Compiling ${VERSION} Linux"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit dividendcash=${COMMIT} --url dividendcash=${url} ../DividendCash/contrib/gitian-descriptors/gitian-linux.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../DividendCash/contrib/gitian-descriptors/gitian-linux.yml
-	    mv build/out/dividendcash-*.tar.gz build/out/src/dividendcash-*.tar.gz ../DividendCash-binaries/${VERSION}
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit dividendcash=${COMMIT} --url dividendcash=${url} ../dividendcash/contrib/gitian-descriptors/gitian-linux.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../dividendcash/contrib/gitian-descriptors/gitian-linux.yml
+	    mv build/out/dividendcash-*.tar.gz build/out/src/dividendcash-*.tar.gz ../dividendcash-binaries/${VERSION}
 	fi
 	# Windows
 	if [[ $windows = true ]]
@@ -284,10 +284,10 @@ then
 	    echo ""
 	    echo "Compiling ${VERSION} Windows"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit dividendcash=${COMMIT} --url dividendcash=${url} ../DividendCash/contrib/gitian-descriptors/gitian-win.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../DividendCash/contrib/gitian-descriptors/gitian-win.yml
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit dividendcash=${COMMIT} --url dividendcash=${url} ../dividendcash/contrib/gitian-descriptors/gitian-win.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../dividendcash/contrib/gitian-descriptors/gitian-win.yml
 	    mv build/out/dividendcash-*-win-unsigned.tar.gz inputs/dividendcash-win-unsigned.tar.gz
-	    mv build/out/dividendcash-*.zip build/out/dividendcash-*.exe ../DividendCash-binaries/${VERSION}
+	    mv build/out/dividendcash-*.zip build/out/dividendcash-*.exe ../dividendcash-binaries/${VERSION}
 	fi
 	# Mac OSX
 	if [[ $osx = true ]]
@@ -295,10 +295,10 @@ then
 	    echo ""
 	    echo "Compiling ${VERSION} Mac OSX"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit dividendcash=${COMMIT} --url dividendcash=${url} ../DividendCash/contrib/gitian-descriptors/gitian-osx.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../DividendCash/contrib/gitian-descriptors/gitian-osx.yml
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit dividendcash=${COMMIT} --url dividendcash=${url} ../dividendcash/contrib/gitian-descriptors/gitian-osx.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../dividendcash/contrib/gitian-descriptors/gitian-osx.yml
 	    mv build/out/dividendcash-*-osx-unsigned.tar.gz inputs/dividendcash-osx-unsigned.tar.gz
-	    mv build/out/dividendcash-*.tar.gz build/out/dividendcash-*.dmg ../DividendCash-binaries/${VERSION}
+	    mv build/out/dividendcash-*.tar.gz build/out/dividendcash-*.dmg ../dividendcash-binaries/${VERSION}
 	fi
 	popd
 
@@ -325,27 +325,27 @@ then
 	echo ""
 	echo "Verifying v${VERSION} Linux"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-linux ../DividendCash/contrib/gitian-descriptors/gitian-linux.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-linux ../dividendcash/contrib/gitian-descriptors/gitian-linux.yml
 	# Windows
 	echo ""
 	echo "Verifying v${VERSION} Windows"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-unsigned ../DividendCash/contrib/gitian-descriptors/gitian-win.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-unsigned ../dividendcash/contrib/gitian-descriptors/gitian-win.yml
 	# Mac OSX
 	echo ""
 	echo "Verifying v${VERSION} Mac OSX"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-unsigned ../DividendCash/contrib/gitian-descriptors/gitian-osx.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-unsigned ../dividendcash/contrib/gitian-descriptors/gitian-osx.yml
 	# Signed Windows
 	echo ""
 	echo "Verifying v${VERSION} Signed Windows"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../DividendCash/contrib/gitian-descriptors/gitian-osx-signer.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../dividendcash/contrib/gitian-descriptors/gitian-osx-signer.yml
 	# Signed Mac OSX
 	echo ""
 	echo "Verifying v${VERSION} Signed Mac OSX"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../DividendCash/contrib/gitian-descriptors/gitian-osx-signer.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../dividendcash/contrib/gitian-descriptors/gitian-osx-signer.yml
 	popd
 fi
 
@@ -360,10 +360,10 @@ then
 	    echo ""
 	    echo "Signing ${VERSION} Windows"
 	    echo ""
-	    ./bin/gbuild -i --commit signature=${COMMIT} ../DividendCash/contrib/gitian-descriptors/gitian-win-signer.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../DividendCash/contrib/gitian-descriptors/gitian-win-signer.yml
-	    mv build/out/dividendcash-*win64-setup.exe ../DividendCash-binaries/${VERSION}
-	    mv build/out/dividendcash-*win32-setup.exe ../DividendCash-binaries/${VERSION}
+	    ./bin/gbuild -i --commit signature=${COMMIT} ../dividendcash/contrib/gitian-descriptors/gitian-win-signer.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../dividendcash/contrib/gitian-descriptors/gitian-win-signer.yml
+	    mv build/out/dividendcash-*win64-setup.exe ../dividendcash-binaries/${VERSION}
+	    mv build/out/dividendcash-*win32-setup.exe ../dividendcash-binaries/${VERSION}
 	fi
 	# Sign Mac OSX
 	if [[ $osx = true ]]
@@ -371,9 +371,9 @@ then
 	    echo ""
 	    echo "Signing ${VERSION} Mac OSX"
 	    echo ""
-	    ./bin/gbuild -i --commit signature=${COMMIT} ../DividendCash/contrib/gitian-descriptors/gitian-osx-signer.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../DividendCash/contrib/gitian-descriptors/gitian-osx-signer.yml
-	    mv build/out/dividendcash-osx-signed.dmg ../DividendCash-binaries/${VERSION}/dividendcash-${VERSION}-osx.dmg
+	    ./bin/gbuild -i --commit signature=${COMMIT} ../dividendcash/contrib/gitian-descriptors/gitian-osx-signer.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../dividendcash/contrib/gitian-descriptors/gitian-osx-signer.yml
+	    mv build/out/dividendcash-osx-signed.dmg ../dividendcash-binaries/${VERSION}/dividendcash-${VERSION}-osx.dmg
 	fi
 	popd
 

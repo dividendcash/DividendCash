@@ -16,8 +16,8 @@ BITCOIND_USER=${BITCOIND_USER:-dividendcash}
 BITCOIND_GROUP=${BITCOIND_GROUP:-dividendcash}
 BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/dividendcashd}
 
-name="DividendCash Core Daemon"
-description="DividendCash crypto-currency p2p network daemon"
+name="Dividendcash Core Daemon"
+description="Dividendcash crypto-currency p2p network daemon"
 
 command="/usr/bin/dividendcashd"
 command_args="-pid=\"${BITCOIND_PIDFILE}\" \

@@ -23,8 +23,8 @@ Build-Depends: debhelper,
  libprotobuf-dev, protobuf-compiler
 Standards-Version: 3.9.2
 Homepage: http://www.dividendcash.org
-Vcs-Git: git://github.com/DividendCash-Project/DividendCash.git
-Vcs-Browser: http://github.com/DividendCash-Project/DividendCash
+Vcs-Git: git://github.com/Dividendcash-Project/Dividendcash.git
+Vcs-Browser: http://github.com/Dividendcash-Project/Dividendcash
 
 Package: dividendcashd
 Architecture: any
