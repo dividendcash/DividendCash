@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/dividendcash-project/dividendcash.git"
+- "url": "https://github.com/dividendcash/DividendCash.git"
   "dir": "DividendCash"
 files: []
 script: |
